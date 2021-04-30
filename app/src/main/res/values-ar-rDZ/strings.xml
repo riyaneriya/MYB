@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الحساب</string>
+    <string name="user1_name">اسامة خروبي</string>
+    <string name="user1_description">اسامة مبرمج مواقع</string>
+    <string name="user2_name">بوزيان بشرى</string>
+    <string name="user2_description">يسرى مبرمجة تطبيقات الاندرويد</string>
+    <string name="user3_name">رضوان خروبي</string>
+    <string name="user3_description">رضوان طالب علوم و تكنولوجيا</string>
+    <string name="Profile">الحساب</string>
+</resources>

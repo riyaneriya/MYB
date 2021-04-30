@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="user1_name">Oussama kherroubi</string>
+    <string name="user1_description">Oussama est un développeur web</string>
+    <string name="user2_name">bouziane yousra</string>
+    <string name="user2_description">yousra est une développeur des applications mobile</string>
+    <string name="user3_name">Radhwane kherroubi</string>
+    <string name="user3_description">Radhwane est un étudiant en science et téchnologie</string>
+</resources>
